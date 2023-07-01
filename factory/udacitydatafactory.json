@@ -1,0 +1,9 @@
+{
+	"name": "udacitydatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "860c7da2-8be5-4d60-9784-00e61f4d114b",
+		"tenantId": "f0487a9d-9757-4691-81f1-e5b766d718ff"
+	}
+}
